@@ -1,6 +1,6 @@
-# Database design for the flight management system database
+# Database design for the Flight Management System database
 
-This database design pertains to the flight management system. It encompasses the following components:
+This database design pertains to the Flight Management System. It encompasses the following components:
 
 **Database Overview:** This section introduces the flight management system database, outlining its purpose, user base, and the information it provides.
 
